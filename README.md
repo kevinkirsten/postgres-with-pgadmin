@@ -22,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 3. This will start the PostgreSQL database on port 5432 and pgAdmin on port 5050.
 
-4. Access pgAdmin at [http://localhost:5050](http://localhost:5050).
+4. Access pgAdmin at [http://localhost:5050/browser/](http://localhost:5050/browser/).
 
 5. Login using the default email and password provided in the docker-compose file (`admin@admin.com` and `Senha123#`).
 
